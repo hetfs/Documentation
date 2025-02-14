@@ -1,47 +1,3 @@
-<<<<<<< HEAD
-# Website
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-||||||| empty tree
-=======
 # Documentation and Generators
 
 Welcome to the **Documentation Generators Repository**! This project provides an overview of popular tools designed to simplify the creation, maintenance, and publishing of documentation for software projects. Below, you’ll find concise descriptions of each tool included in this repository, along with their key features and official links.
@@ -116,10 +72,51 @@ Built on Vue.js, **VuePress** combines simplicity with powerful features to deli
 **Official Link**: [VuePress Documentation](https://vuepress.vuejs.org/)
 
 ---
+## Website
+
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+
+### Installation
+
+```
+$ yarn
+```
+
+### Local Development
+
+```
+$ yarn start
+```
+
+This command starts a local development server and opens a browser window. Most changes are reflected live without restarting the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content in the `build` directory, which can be served using any static content hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+> If you are using GitHub pages for hosting, this command is a convenient way to build the website and push it to the `gh-pages` branch.
+---
 
 ## How to Contribute
 
 We welcome contributions to this repository! If you have experience with any of these documentation tools or would like to suggest additional options, feel free to submit a pull request or open an issue. Your input helps make this resource more comprehensive and valuable for the community.
 
 Happy documenting! 🚀
->>>>>>> 39bc1c7b93232c389094576be36f556fd582c99e

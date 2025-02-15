@@ -116,8 +116,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@mastercli',
               },
               {
                 label: 'Discord',
@@ -125,7 +125,7 @@ const config = {
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/hetf01',
               },
             ],
           },
@@ -138,7 +138,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/hetfs/Documentation',
+                href: 'https://github.com/hetfs',
               },
             ],
           },

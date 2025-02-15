@@ -1,0 +1,7 @@
+StylesPath = Styles 
+
+MinAlertLevel = suggestion
+
+[*.md]
+
+BasedOnStyles = vale, Microsoft

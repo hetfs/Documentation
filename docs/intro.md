@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome to the Documentation Hub
+# Documentation Hub
 
 Welcome to the **Documentation Hub**—your ultimate destination for mastering effective communication and streamlined knowledge management. This repository is thoughtfully curated to provide expert insights, actionable strategies, and cutting-edge techniques to elevate your documentation skills. Whether you aim to create intuitive user guides, automate your workflow, sharpen your note-taking, or perfect your technical writing, you'll find everything you need right here.
 
